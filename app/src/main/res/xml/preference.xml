@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+  <PreferenceCategory android:title="@string/settings">
+      <EditTextPreference
+          android:key="@string/preference_vendor_id"
+          android:title="@string/preference_vendor_id_title"
+          android:inputType="numberDecimal"
+          android:summary="@integer/default_vendor_id"
+          android:defaultValue="@integer/default_vendor_id"/>
+      <EditTextPreference
+          android:key="@string/preference_product_id"
+          android:title="@string/preference_product_id_title"
+          android:inputType="numberDecimal"
+          android:summary="@integer/default_product_id"
+          android:defaultValue="@integer/default_product_id"/>
+  </PreferenceCategory>
+</PreferenceScreen>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ブートロードHID</string>
+    <string name="action_about">このアプリについて</string>
+    <string name="action_clear">クリア</string>
+    <string name="action_refresh">更新</string>
+    <string name="action_settings">設定</string>
+    <string name="write_done">転送に成功しました</string>
+    <string name="write_failed">転送に失敗しました</string>
+    <string name="choose_file">ファイルを選択</string>
+    <string name="file_name">ファイル名</string>
+    <string name="preference_vendor_id_title">ベンダID</string>
+    <string name="preference_product_id_title">プロダクトID</string>
+    <string name="about">このアプリは、Android端末からAVRマイコンに、USB経由でプログラムを転送するためのものです。</string>
+    <string name="settings">設定</string>
+    <string name="title_about">このアプリについて</string>
+    <string name="instructions1">1. hexファイルを選択</string>
+    <string name="instructions2">2. デバイスを接続\n3. 確認ダイアログでOKを押すと転送開始!</string>
+    <string name="version">バ-ジョン</string>
+</resources>
